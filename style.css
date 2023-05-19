@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+
+.contaner{
+    margin: auto;
+    max-width: 800px;
+}
+#vi{
+    color: palevioletred;
+}
